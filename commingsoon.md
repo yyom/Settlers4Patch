@@ -1,9 +1,9 @@
 # comming soon (maybe)
-## APP
+## Anwendung
 
 ### Mehrsprachigkeit
 - Englisch
-- bei Bedarf weitere Sprachen
+- weitere Sprachen bei Bedarf 
 
 ### Speicherung der Spielgeschwindigkeit
 
