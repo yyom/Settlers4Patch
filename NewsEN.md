@@ -3,8 +3,8 @@
 
 Release of the community patch version 3.0.1518.
 
-## APP 
-Automatic download of the latest app and game version.  
+## Application (APP) 
+Automatic download of the latest application and game version.  
 Version selection "Community Patch" or "History Edition".  
 
 ### FEATURES
