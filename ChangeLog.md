@@ -37,8 +37,8 @@ Alle Level 3 Schwertkämpfer haben nun einen Rüstungswert von 2. [V1.2.0]
 Die Bonuskampfkraft von Squadleadern wurde von 10% auf 17% erhöht. [V1.2.0]  
 Squadleader haben nun einen Rüstungswert von 3. [V1.2.0]  
 
-Der Arbeitsradius des Lazarettes wurde verdoppelt. [V1.2.3]  
-Der Arbeitsradius des Jägers wurde verdoppelt. [V1.2.3]  
+Der Arbeitsbereich des Lazarettes wurde verdoppelt. [V1.2.3]  
+Der Arbeitsbereich des Jägers wurde verdoppelt. [V1.2.3]  
 
 Auf der Karte sind nun deutlich mehr Jagdbare Tiere vorhanden. [2.0.0]  
 
